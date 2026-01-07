@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**FungHz/FungHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FungHz</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #f5f5f5;
+      font-family: Arial, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      padding: 40px;
+    }
+    a {
+      color: #9cff57;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>funghz</h1>
+    <p>
+      Free Lion's Mane samples<br><br>
+      Contact: <a href="mailto:info@funghz.com">info@funghz.com</a>
+    </p>
+  </div>
+</body>
+</html>
