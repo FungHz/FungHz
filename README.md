@@ -27,7 +27,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>funghz</h1>
+    <h1>FungHz</h1>
     <p>
       Free Lion's Mane samples<br><br>
       Contact: <a href="mailto:info@funghz.com">info@funghz.com</a>
